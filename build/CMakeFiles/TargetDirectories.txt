@@ -1,0 +1,5 @@
+C:/Users/Spyros/Documents/THU/5. Semester/CG/3d_project/OpenGLSampleCmake-master/build/CMakeFiles/OpenGLExample.dir
+C:/Users/Spyros/Documents/THU/5. Semester/CG/3d_project/OpenGLSampleCmake-master/build/CMakeFiles/STB_IMAGE.dir
+C:/Users/Spyros/Documents/THU/5. Semester/CG/3d_project/OpenGLSampleCmake-master/build/CMakeFiles/GLAD.dir
+C:/Users/Spyros/Documents/THU/5. Semester/CG/3d_project/OpenGLSampleCmake-master/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Spyros/Documents/THU/5. Semester/CG/3d_project/OpenGLSampleCmake-master/build/CMakeFiles/ZERO_CHECK.dir

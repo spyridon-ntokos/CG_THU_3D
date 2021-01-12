@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Spyros\Documents\THU\5. Semester\CG\3d_project\OpenGLSampleCmake-master\thirdparty\stb_image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Spyros\Documents\THU\5. Semester\CG\3d_project\OpenGLSampleCmake-master\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{491F4A64-9A86-339F-9631-961D1F6E6F0F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
