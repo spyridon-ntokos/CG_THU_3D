@@ -1,26 +1,21 @@
-# OpenGLSampleCmake
+# CG THU 3D Project
 
-Sample CMake for OpenGL based projects.
+## SARS-CoV-2: COVID-19 3D Model 
+ featuring multi-texturing on multiple meshes
+ made in OpenGL/C++ as part of 3D-project for CG subject by Prof. Alfred M. Franz 
 
-For more information about how all of these was done please refer to this [link](https://shot511.github.io/2018-05-29-how-to-setup-opengl-project-with-cmake/).
+ - Model created in Blender by Andrew Mezentsew (Teliri) licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)
+ 
+ https://sketchfab.com/3d-models/coronavirus-b28f63adc5f04a2aab27e1d7293eba0b
+ 
+ 
+ - Code-template by Tomasz Gałaj (Copyright 2018)
+ 
+ https://shot511.github.io/2018-05-29-how-to-setup-opengl-project-with-cmake/
+ 
+ https://github.com/Shot511/OpenGLSampleCmake
 
-## Build dependencies
- - CMake (to download click [here](https://cmake.org/download/))
- - IDE (e.g. Visual Studio)
 
-## Build instructions
-**Note**: this CMake was only tested on Windows platform. Linux and Mac platforms weren't tested.
-
-1. Make sure that CMake is installed and added to the system PATH variable.
-2. Open terminal in the CMakeLists.txt directory and run:
-
- ```
- mkdir build
- cd build
- cmake -A Win32 ..
- ```
-
-NOTE: Project must be configured as Win32 due to precompiled x86 binaries of thirdparty libraries.
-
- ## Additional info
- Any improvements to CMake script are greatly welcome.
+ - Original code for loading the model with Assimp by LearnOpenGL
+ 
+ https://learnopengl.com/Model-Loading/Assimp
